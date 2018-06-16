@@ -20,6 +20,7 @@
 * you can install this apk
 # Downloads
 * https://github.com/martin9752/dazuoye
+* https://github.com/martin9752/dazuoye/releases
 # How to contribute
 # license
 # Copyright
