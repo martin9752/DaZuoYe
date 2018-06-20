@@ -19,6 +19,7 @@
 * an android system
 * you can install this apk
 # Downloads
+* http://shouji.baidu.com/software/24186331.html
 * https://github.com/martin9752/dazuoye
 * https://github.com/martin9752/dazuoye/releases
 # How to contribute
